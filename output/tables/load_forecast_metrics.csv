@@ -1,0 +1,2 @@
+best_model_name,horizon_h,n_train,n_test,mae,rmse,mape_pct,r2,target_mape_pct,target_achieved,mape_roh_baseline_pct,n_roh_baseline,steady_state_mape_pct,anomaly_mape_pct
+GradientBoosting,168,7835,1959,33.28548450653599,38.449693731502556,12.404646491282877,0.203344666546599,15.0,True,23.80446467872977,337,11.636713098339932,12.710260176024814

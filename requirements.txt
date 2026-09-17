@@ -1,0 +1,12 @@
+pandas==2.3.3
+numpy==2.3.5
+scikit-learn==1.7.2
+xgboost==3.2.0
+scipy>=1.10
+matplotlib>=3.7
+openpyxl>=3.1
+prophet>=1.1  # opsional, utk load_forecast.py -- kode berjalan tanpa ini jg (skip otomatis)
+
+# Dashboard operasional interaktif (dashboard_app.py)
+streamlit>=1.38
+plotly>=5.22
